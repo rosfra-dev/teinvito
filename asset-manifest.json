@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/teinvito/static/css/main.4ad111c5.css",
-    "main.js": "/teinvito/static/js/main.5f1e4d97.js",
+    "main.css": "/teinvito/static/css/main.8a664ff8.css",
+    "main.js": "/teinvito/static/js/main.f2d067cd.js",
     "static/media/image_02.png": "/teinvito/static/media/image_02.3aa06ac15ed2979cdf61.png",
     "static/media/image_06.png": "/teinvito/static/media/image_06.7e6aac1c1c3f6678c4fc.png",
     "static/media/image_03.png": "/teinvito/static/media/image_03.30d8ddc9c09cc59fb045.png",
@@ -12,14 +12,17 @@
     "static/media/image_08.png": "/teinvito/static/media/image_08.bb06ceaffe18db4ee0e8.png",
     "static/media/invite_img.png": "/teinvito/static/media/invite_img.098852c411c730a2ba39.png",
     "static/media/text_02.png": "/teinvito/static/media/text_02.b17d7b72f766e4ca22b8.png",
+    "static/media/recuadro_01.png": "/teinvito/static/media/recuadro_01.26c3380d157c7049d22e.png",
+    "static/media/recuadro_02.png": "/teinvito/static/media/recuadro_02.207aa8e1053e7609cda6.png",
+    "static/media/recuadro_03.png": "/teinvito/static/media/recuadro_03.2cc162c2169c6b6ca2c3.png",
     "static/media/image_09.png": "/teinvito/static/media/image_09.52bf1f8064668a9fff5a.png",
     "static/media/text_01.png": "/teinvito/static/media/text_01.9a668b1dfbc389a88a42.png",
     "index.html": "/teinvito/index.html",
-    "main.4ad111c5.css.map": "/teinvito/static/css/main.4ad111c5.css.map",
-    "main.5f1e4d97.js.map": "/teinvito/static/js/main.5f1e4d97.js.map"
+    "main.8a664ff8.css.map": "/teinvito/static/css/main.8a664ff8.css.map",
+    "main.f2d067cd.js.map": "/teinvito/static/js/main.f2d067cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ad111c5.css",
-    "static/js/main.5f1e4d97.js"
+    "static/css/main.8a664ff8.css",
+    "static/js/main.f2d067cd.js"
   ]
 }
