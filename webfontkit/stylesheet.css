@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'jacelineregular';
-    src: url('jaceline-webfont.woff2') format('woff2'),
-         url('jaceline-webfont.woff') format('woff');
+    src: url('https://github.com/rosfra-dev/teinvito/blob/96c0b221f953e8434db009bf29156d1f87d70d50/webfontkit/jaceline-webfont.woff2') format('woff2'),
+         url('https://github.com/rosfra-dev/teinvito/blob/96c0b221f953e8434db009bf29156d1f87d70d50/webfontkit/jaceline-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -16,8 +16,8 @@
 
 @font-face {
     font-family: 'audreyregular';
-    src: url('audrey-normal-webfont.woff2') format('woff2'),
-         url('audrey-normal-webfont.woff') format('woff');
+    src: url('https://github.com/rosfra-dev/teinvito/blob/96c0b221f953e8434db009bf29156d1f87d70d50/webfontkit/audrey-normal-webfont.woff2') format('woff2'),
+         url('https://github.com/rosfra-dev/teinvito/blob/96c0b221f953e8434db009bf29156d1f87d70d50/webfontkit/audrey-normal-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
