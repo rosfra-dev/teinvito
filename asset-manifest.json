@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/teinvito/static/css/main.8a664ff8.css",
-    "main.js": "/teinvito/static/js/main.f2d067cd.js",
+    "main.css": "/teinvito/static/css/main.cda9c61b.css",
+    "main.js": "/teinvito/static/js/main.1aa17ebf.js",
     "static/media/image_02.png": "/teinvito/static/media/image_02.3aa06ac15ed2979cdf61.png",
     "static/media/image_06.png": "/teinvito/static/media/image_06.7e6aac1c1c3f6678c4fc.png",
     "static/media/image_03.png": "/teinvito/static/media/image_03.30d8ddc9c09cc59fb045.png",
     "static/media/image_07.png": "/teinvito/static/media/image_07.8361359b842ba1c12578.png",
     "static/media/image_04.png": "/teinvito/static/media/image_04.b7b338209f840e0ec30a.png",
     "static/media/image_05.png": "/teinvito/static/media/image_05.131b7953d001c2f5caaa.png",
+    "static/media/nova_cover.png": "/teinvito/static/media/nova_cover.586fc16b55e16341dc53.png",
     "static/media/cover_img.png": "/teinvito/static/media/cover_img.0eecc3ec34b3723646de.png",
     "static/media/image_08.png": "/teinvito/static/media/image_08.bb06ceaffe18db4ee0e8.png",
     "static/media/invite_img.png": "/teinvito/static/media/invite_img.098852c411c730a2ba39.png",
@@ -18,11 +19,11 @@
     "static/media/image_09.png": "/teinvito/static/media/image_09.52bf1f8064668a9fff5a.png",
     "static/media/text_01.png": "/teinvito/static/media/text_01.9a668b1dfbc389a88a42.png",
     "index.html": "/teinvito/index.html",
-    "main.8a664ff8.css.map": "/teinvito/static/css/main.8a664ff8.css.map",
-    "main.f2d067cd.js.map": "/teinvito/static/js/main.f2d067cd.js.map"
+    "main.cda9c61b.css.map": "/teinvito/static/css/main.cda9c61b.css.map",
+    "main.1aa17ebf.js.map": "/teinvito/static/js/main.1aa17ebf.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a664ff8.css",
-    "static/js/main.f2d067cd.js"
+    "static/css/main.cda9c61b.css",
+    "static/js/main.1aa17ebf.js"
   ]
 }
