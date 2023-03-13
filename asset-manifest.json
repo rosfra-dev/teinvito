@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/teinvito/static/css/main.0450954a.css",
-    "main.js": "/teinvito/static/js/main.405523fc.js",
+    "main.js": "/teinvito/static/js/main.ad50e438.js",
     "static/media/image_02.png": "/teinvito/static/media/image_02.3aa06ac15ed2979cdf61.png",
     "static/media/image_06.png": "/teinvito/static/media/image_06.7e6aac1c1c3f6678c4fc.png",
     "static/media/image_05.png": "/teinvito/static/media/image_05.4e6967db5751ad44e34f.png",
@@ -22,10 +22,10 @@
     "static/media/audrey-normal-webfont.woff": "/teinvito/static/media/audrey-normal-webfont.8a05a73ad8edc95a1c73.woff",
     "index.html": "/teinvito/index.html",
     "main.0450954a.css.map": "/teinvito/static/css/main.0450954a.css.map",
-    "main.405523fc.js.map": "/teinvito/static/js/main.405523fc.js.map"
+    "main.ad50e438.js.map": "/teinvito/static/js/main.ad50e438.js.map"
   },
   "entrypoints": [
     "static/css/main.0450954a.css",
-    "static/js/main.405523fc.js"
+    "static/js/main.ad50e438.js"
   ]
 }
