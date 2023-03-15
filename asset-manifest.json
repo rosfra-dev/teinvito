@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/teinvito/static/css/main.2fc6dbc4.css",
-    "main.js": "/teinvito/static/js/main.230006e9.js",
+    "main.css": "/teinvito/static/css/main.cb9e3293.css",
+    "main.js": "/teinvito/static/js/main.1ab96d16.js",
     "static/media/image_02.png": "/teinvito/static/media/image_02.3aa06ac15ed2979cdf61.png",
     "static/media/image_06.png": "/teinvito/static/media/image_06.7e6aac1c1c3f6678c4fc.png",
     "static/media/image_05.png": "/teinvito/static/media/image_05.4e6967db5751ad44e34f.png",
@@ -21,11 +21,11 @@
     "static/media/text_01.png": "/teinvito/static/media/text_01.9a668b1dfbc389a88a42.png",
     "static/media/audrey-normal-webfont.woff": "/teinvito/static/media/audrey-normal-webfont.8a05a73ad8edc95a1c73.woff",
     "index.html": "/teinvito/index.html",
-    "main.2fc6dbc4.css.map": "/teinvito/static/css/main.2fc6dbc4.css.map",
-    "main.230006e9.js.map": "/teinvito/static/js/main.230006e9.js.map"
+    "main.cb9e3293.css.map": "/teinvito/static/css/main.cb9e3293.css.map",
+    "main.1ab96d16.js.map": "/teinvito/static/js/main.1ab96d16.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fc6dbc4.css",
-    "static/js/main.230006e9.js"
+    "static/css/main.cb9e3293.css",
+    "static/js/main.1ab96d16.js"
   ]
 }
